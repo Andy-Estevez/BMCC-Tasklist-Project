@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Images/TempIcon.png</file>
+        <file>Images/icons8-advice-64.png</file>
+        <file>Images/TPDefaultBg.png</file>
+    </qresource>
+</RCC>
